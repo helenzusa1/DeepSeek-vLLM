@@ -14,4 +14,4 @@ then rebuild the image until seeing the container registry, use the container re
 
 >az ml online-deployment create -f deployment.yaml --all-traffic
 
-> az ml online-deployment create -f deployment1.yaml --all-traffic
+then run the RAG_DeepSeep.ipynb

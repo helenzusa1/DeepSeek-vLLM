@@ -5,7 +5,7 @@ environment_variables:
   MODEL_NAME: deepseek-ai/DeepSeek-R1-Distill-Llama-8B
   VLLM_ARGS: "" # optional args for vLLM runtime
 environment:
-  image: workspacecentral.azurecr.io/azureml/azureml_fe015486752f129e179eff5be1615305 # paste Docker image address here
+  image: workspacecentral.azurecr.io/azureml/azureml_xxxx # paste Docker image address here
   inference_config:
     liveness_route:
       port: 8000
